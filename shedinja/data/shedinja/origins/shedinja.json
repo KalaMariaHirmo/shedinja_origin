@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"shedinja:immunity",
+		"shedinja:fire_weakness"
+	],
+	"icon": "minecraft:skeleton_skull",
+	"order": 10,
+	"impact": 3,
+	"name": "Shedinja",
+	"description": "Immune to everything but fire."
+}

@@ -1,0 +1,13 @@
+{
+  "type": "origins:modify_damage_taken",
+  "name": "Weak to fire",
+  "description": "You instantly die from fire",
+  "modifier": {
+    "name": "Origin modifier",
+    "value": 999,
+    "operation": "multiply_base"
+  },
+  "damage_condition": {
+    "type": "origins:fire"
+  }
+}

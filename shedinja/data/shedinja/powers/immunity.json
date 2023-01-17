@@ -1,0 +1,9 @@
+{
+  "type": "origins:modify_damage_taken",
+  "name": "Immune to all",
+  "description": "You take no damage",
+  "modifier": {
+    "operation": "multiply_base",
+    "value": -1
+  }
+}
