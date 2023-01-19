@@ -10,9 +10,13 @@
   "damage_condition": {
     "type": "origins:attacker",
     "entity_condition": {
-      "type": "origins:using_item",
+      "type": "origins:equipped_item",
+      "equipment_slot": "mainhand",
       "item_condition": {
-        "tag": "origins:rock"
+        "type": "origins:ingredient",
+        "ingredient": {
+          "tag": "origins:rock"
+        }
       }
     }
   }
