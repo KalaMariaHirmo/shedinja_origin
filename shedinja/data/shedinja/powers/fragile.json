@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "name": "Fragile",
+  "description": "You have 1 heart",
+  "modifier": {
+    "name": "Max health increase",
+    "attribute": "minecraft:generic.max_health",
+    "value": -18,
+    "operation": "addition"
+  }
+}
