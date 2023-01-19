@@ -1,0 +1,28 @@
+{
+  "replace":false,
+  "values": [
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:stone_axe",
+    "minecraft:stone_hoe",
+    "minecraft:stone_slab",
+    "minecraft:infested_stone",
+    "minecraft:stone_sword",
+    "minecraft:cobblestone_slab",
+    "minecraft:cobblestone_wall",
+    "minecraft:smooth_stone",
+    "minecraft:stone_button",
+    "minecraft:stone_bricks",
+    "minecraft:stone_shovel",
+    "minecraft:stone_stairs",
+    "minecraft:mossy_cobblestone",
+    "minecraft:cobblestone_stairs",
+    "minecraft:stone_pickaxe",
+    "minecraft:tuff",
+    "minecraft:stone_brick_slab",
+    "minecraft:stone_brick_wall",
+    "minecraft:mossy_stone_bricks",
+    "minecraft:stone_brick_stairs",
+    "minecraft:cracked_stone_bricks"
+  ]
+}

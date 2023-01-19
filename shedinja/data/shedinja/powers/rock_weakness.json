@@ -1,0 +1,19 @@
+{
+  "type": "origins:modify_damage_taken",
+  "name": "Weak to rock",
+  "description": "You instantly die from rock type attacks",
+  "modifier": {
+    "name": "Origin modifier",
+    "value": 999,
+    "operation": "multiply_base"
+  },
+  "damage_condition": {
+    "type": "origins:attacker",
+    "entity_condition": {
+      "type": "origins:using_item",
+      "item_condition": {
+        "tag": "origins:rock"
+      }
+    }
+  }
+}
