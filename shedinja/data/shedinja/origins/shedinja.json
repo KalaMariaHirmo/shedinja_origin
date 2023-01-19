@@ -1,6 +1,7 @@
 {
 	"powers": [
 		"shedinja:fragile",
+		"shedinja:no_hunger",
 		"shedinja:immunity",
 		"shedinja:rock_weakness",
 		"shedinja:fire_weakness"

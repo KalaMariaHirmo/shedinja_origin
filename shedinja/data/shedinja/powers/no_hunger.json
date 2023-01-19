@@ -1,0 +1,14 @@
+{
+  "type": "origins:stacking_status_effect",
+  "name": "No hunger",
+  "description": "You are an empty shell who does not need to eat",
+  "min_stacks": 1,
+  "max_stacks": 1,
+  "duration_per_stack": 19,
+  "effect": {
+    "effect": "minecraft:saturation",
+    "is_ambient": false,
+    "show_particles": false,
+    "show_icon": false
+  }
+}
